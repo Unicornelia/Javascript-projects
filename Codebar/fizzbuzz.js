@@ -1,5 +1,5 @@
 var fizzBuzz = function() {
-	for (var x = 1; x < 101; x = x + 1) {
+	for (var x = 1; x < 101; x++) {
 		if (x % 15 === 0) {
 			console.log("fizzbuzz");
 		}
