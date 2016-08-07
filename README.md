@@ -1,5 +1,15 @@
 ## README
 
+## Codewars folder:
+
+Sharing some of my solution to Codewars Katas. Feel free to suggest changes, although I know most of the code can be shorter, but hey, I am a newbie.
+
+The file names should be directing you to the same task on Codewars. I recommend to try to solve them first and them check this.
+
+## Codebar folder:
+
+Some Codebar exercise and JS solutions. Mainly my pathway to learning JS.
+
 ## EMF folder:
 
 This folder contains 3 fun tasks that were coded by groups during the last EMF camp 2016. The workshop was exploring the options with real time web. (Realtime Web By: Ben Foxall)
