@@ -1,4 +1,4 @@
-## Synopsis
+## README
 
 ## EMF folder:
 
@@ -21,11 +21,11 @@ We’ll create things like:
 You’ll leave with a better knowledge of realtime web technologies, the things you can do by combining devices, and have everything you need to create your own multi-device interactions."
 
 ## Tasks
-# task1
+* task1
 Each of the task does something else when the laptops are connected to eachother. Task 1 is letting participants to change a colour to their favourite and the program will alternate between all these colours, in real time.
-# task2
+* task2
 A "yo" line will move around on the screen.
-# task3
+* task3
 Play your own music, aka set the tone to a number and watch what happens.
 
 ## Contributors
